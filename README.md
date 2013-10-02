@@ -1,5 +1,7 @@
 This is an Emacs minor mode (following the example of rainbow-delimiters) to change the color of Lisp code based on the backquote depth.
 
+It's helpful for writing macros as well as understanding them. After I first got it working, I finally had an intuitive understanding for what the comma + single-quote pattern does and started using it in a more consistent fashion.
+
 ![once-only](/images/once-only.png "once-only")
 
 ![pandoric-eval](/images/pandoric-eval.png "pandoric-eval")
