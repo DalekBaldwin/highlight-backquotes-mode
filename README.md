@@ -3,3 +3,5 @@ This is an Emacs minor mode (following the example of rainbow-delimiters) to cha
 ![once-only](/images/once-only.png "once-only")
 
 ![pandoric-eval](/images/pandoric-eval.png "pandoric-eval")
+
+![too-many-unquotes](/images/too-many-unquotes.png "too-many-unquotes")
