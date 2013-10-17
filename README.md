@@ -16,3 +16,4 @@ Not tested for Lisps other than Common Lisp. I'm not entirely sure whether the r
 
 Future work:
 Make this work as an extra layer on top of lisp-mode so keywords are highlighted but still appear somewhat distinct at different backquote levels.
+Visually indicate symbols that are vulnerable to capture.
