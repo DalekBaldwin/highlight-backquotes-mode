@@ -10,7 +10,7 @@ It's helpful for writing macros as well as understanding them. After I first got
 
 Known issues:
 - The previous colorization may not always reappear once the mode is disabled.
-- Escaped characters like #\` are not handled.
+- Escaped characters like #\\` are not handled.
 
 Unknown issues:
 - Not tested for Lisps other than Common Lisp. I'm not entirely sure whether the readers for other Lisps work entirely the same in regards to pathological corner cases.
