@@ -1,6 +1,7 @@
 ;;; highlight-backquotes.el --- Highlight nested parens, brackets, braces a different color at each depth.
 
-;; Based on rainbow-delimiters.el
+;; Author: Kyle Littler
+;; Created with generous reuse of code from rainbow-delimiters.el
 
 ;; License info for rainbow-delimiters.el:
 
